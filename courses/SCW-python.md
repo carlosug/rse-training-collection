@@ -10,15 +10,15 @@ No prior knowledge is required
 ## Overview content:
 
 1. Intro to Python
-- Python fundamentals
-- Analysing and visualising data
-- Storing data and lists object
-- Repeating Actions with Loops
-- Analysing data from multiple Files
-- Creating functions
-- Errors and Exceptions
-- Defensive Programming
-- Debugging
+    - Python fundamentals
+    - Analysing and visualising data
+    - Storing data and lists object
+    - Repeating Actions with Loops
+    - Analysing data from multiple Files
+    - Creating functions
+    - Errors and Exceptions
+    - Defensive Programming
+    - Debugging
 
 2. Intro to Python II
 3. Intro the Unix Shell
