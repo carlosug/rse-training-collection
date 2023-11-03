@@ -5,10 +5,11 @@ to capture links to various resources:
 
 ---
 
-**Essentials**
+*Essentials*
 
 - [Code Refinery]()
 - [Software carpentries]()
-**Intermediate**
 
-**Expert**
+*Intermediate*
+
+*Expert*
