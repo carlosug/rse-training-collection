@@ -1,14 +1,19 @@
 # Research Software Engineer training materials
----
 
-to capture links to various resources:
+Below you'll find an *(work in progress)* curated list of research software engineering training material. All material is:
+1. In a GitHub or GitLab repository)
+2. Free to use
+3. Written in markdown or similar
 
 ---
 
 *Essentials*
 
-- [Code Refinery]()
-- [Software carpentries]()
+- [CodeRefinery]()
+- [Software Carpentry workshops](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops)
+:introduction to python programming, command-line and task automation with shell, and versioning control with Git
+
+
 
 *Intermediate*
 
