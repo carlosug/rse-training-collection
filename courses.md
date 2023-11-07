@@ -10,6 +10,9 @@ No prior knowledge is required
 ## Level:
 Essentials (foundational skills)
 
+## Family root:
+.
+
 ## Duration:
 3 half-days
 
@@ -52,6 +55,9 @@ Essentials (foundational skills)
 
 ## Requirements:
 Some programming experience, but generic-proposed approach
+
+## Family root:
+.
 
 ## Level:
 Essentials (foundational skills)
@@ -122,8 +128,8 @@ Essentials (foundational skills)
 ## Requirements:
 Little knowledge on command-line interface with Unix Shell. It is required to know how to navigate, create, edit, visualise and append command output to a file via Unix Shell. Software carpentry 2 and 3 content is desired.
 
-## Foundations:
-Based on Coderefinery lessons
+## Family root:
+Coderefinery lessons
 
 ## Level:
 Essentials (foundational skills)
@@ -165,8 +171,8 @@ Essentials (foundational skills)
 ## Requirements:
 Little knowledge on command-line interface with Unix Shell. It is required to know how to navigate, create, edit, visualise and append command output to a file via Unix Shell. Software carpentry 2 and 3 content is desired.
 
-## Foundations:
-Based on Coderefinery lessons
+## Family root:
+Coderefinery lessons
 
 ## Level:
 Essentials (foundational skills)
@@ -205,6 +211,78 @@ Essentials (foundational skills)
 
 ---
 
+# Swiss SIB - First Steps with UNIX in Life Science
+
+## Goal:
+> Researchers (focus on bio informatics) learn most useful commands of Git, an intro to collaborative workflows and how to use Github
+
+## Requirements:
+no background in 
+
+## Family root:
+.
+
+## Level:
+Essentials (Foundational skills)
+
+## Duration:
+(-) full days and half
+
+## Overview content and lessons:
+- What is UNIX and why should biologists use it?
+- UNIX filesystem: navigation and usage
+- Environment, processes & Jobs
+- Working with directories
+- Working with files and file content
+
+
+---
+
+
+# Swiss SIB - Version control with Git
+
+## Goal:
+> Researchers learn most useful commands of Git, an intro to collaborative workflows and how to use Github
+
+## Requirements:
+recommended basic knowledge of unix command line and following introductory using Bash shell at their [UNIX course](https://www.sib.swiss/training/course/20240116_FSWU)
+
+## Family root:
+SIB lessons
+
+## Level:
+Essentials (Foundational skills)
+
+## Duration:
+2 full days and half
+
+## Overview content and lessons:
+
+1. First steps with Git:
+    - introduction to version control systems and Git
+    - Git basics: your first commit
+    - Git concepts: commits, the HEAD pointer and the Git index
+    - Git branches: introduction to branched workflows and collaborative
+    - workflow examples
+    - branch management: merge, rebase and cherry-pick
+    - retrieving data from the Git database: git checkout
+    - working with remotes: collaborating with Git
+    - GitHub: a brief overview
+
+2. Git advanced topics:
+    - rewriting history: interactive rebase, git reset and commit amending.
+    - the detached HEAD state explained
+    - the Git stash: Git’s “cut and paste” functionality
+    - Git tags: label important commits
+    - GitHub: creating a new project, adding new users and collaborating wit them
+    
+3. optional modules:
+    - GitHub Actions and GitLab CI/CD: writing automated pipelines
+    - Git submodules: embed a Git repository as a subdirectory of another Git repo
+    - Git LFS: versioning large files with Git
+
+
+---
 
 # Carpentry - Intermediate Research Software Development with Python
 
@@ -262,7 +340,7 @@ Essentials (foundational skills)
 Basic knowledge and skills on research software development by attending [novice Software Carpentry Python Course](https://software-carpentry.org/lessons)
 
 ## Foundations:
-Based on  [Incubator Intermediate Research Software Development Skills In Python Lesson Material](https://github.com/carpentries-incubator/python-intermediate-development/tree/gh-pages)
+Based on [Incubator Intermediate Research Software Development Skills In Python Lesson Material](https://github.com/carpentries-incubator/python-intermediate-development/tree/gh-pages)
 
 ## Level:
 Essentials (foundational skills)
