@@ -574,6 +574,10 @@ Essentials
 
 ## 16. [US-RSE'23 Tutorials](https://us-rse.org/usrse23/program/tutorials/)
 
+- [Github Actions for Scientific Data Workflows](https://github.com/valentina-s/GithubActionsTutorial-USRSE23) -- [*(Materials)*](https://drive.google.com/drive/folders/1BuRuqkgJu-shgy4VuoK2t44Maans5rod) 
+
+- [Publish your software in conda-forge](https://drive.google.com/drive/folders/1KboMyatalRrVHKmpjqIkd7tkkWhYd_8t)
+
 ---
 
 

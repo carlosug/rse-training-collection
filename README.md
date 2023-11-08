@@ -8,8 +8,8 @@ Below you'll find an *(work in progress)* curated list of research software engi
 
 
 - Acronyms:
-TUDelft
-SIB SWISS
+TUDelft: Technical University of Delft (NL)
+SIB SWISS: Swiss Institute of Bioinformatics (CH)
 
 ---
 
@@ -32,14 +32,14 @@ Foundational workshops serve as the cornerstone for a wide array of hands-on wor
 
 - 7. [Carpentries Incubator - Intermediate Research Software Development](courses.md#7-carpentries-incubator---intermediate-research-software-development)
 - 8. [eScience Center - Intermediate Research Software Development with python](courses.md#8-escience-center---intermediate-research-software-development-with-python)
-- 9. [SIB Swiss - Intermediate python courses](https://github.com/sib-swiss/intermediate-python-training)
-- 10. [SIB Swiss - Best practices in Programming](https://www.sib.swiss/training/course/20240703_BPP)
+- 9. [SIB Swiss - Intermediate python courses](courses.md#9-swiss-sib---intermediate-python-courses)
+- 10. [SIB Swiss - Best practices in Programming](courses.md#10-swiss-sib---best-practices-in-programming)
 
 *Specialised*
 
-- 11. [SIB Swiss - Docker and Singularity for Reproducible Research: Getting Started with Containers](https://www.sib.swiss/training/course/20240527_DOCK)
-- 12. [SIB Swiss - Introduction to Contaniers and Snakemake for Reproducible Research](https://www.sib.swiss/training/course/20241009_ICWRR)
-- 13. [Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/)
-- 14. [eScience Center - Reproducible Computational Environments Using Containers](https://www.esciencecenter.nl/training/2022-04-06-ds-docker/)
+- 11. [SIB Swiss - Docker and Singularity for Reproducible Research: Getting Started with Containers](courses.md#11-swiss-sib---docker-and-singularity-for-reproducible-research-getting-started-with-containers)
+- 12. [SIB Swiss - Introduction to Contaniers and Snakemake for Reproducible Research](courses.md#12-swiss-sib---introduction-to-contaniers-and-snakemake)
+- 13. [eScience Center - Reproducible Computational Environments Using Containers](courses.md#13-escience-center---reproducible-computational-environments-using-containers)
+- 14. [Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker](courses.md#14-carpentries-incubator---reproducible-computational-environments-using-containers-introduction-to-docker)
 - 15. [TUD - FAIR4RS: FAIR Software Program](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
 - 16. [US-RSE'23 Tutorials](https://us-rse.org/usrse23/program/tutorials/)
