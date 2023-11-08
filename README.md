@@ -8,11 +8,10 @@ Below you'll find an *(work in progress)* curated list of research software engi
 
 
 **Acronyms:**
-
 TUDelft: Technical University of Delft (NL) </br>
 SIB SWISS: Swiss Institute of Bioinformatics (CH)
 
-**Slides**
+**Slides:**
 [Brainstorming session 09.11.2023](https://excalidraw.com/#json=nXg_ejhQCTm2Dk6moYGQ1,_pyziiXCbj3LoQoCfuaLxA)
 
 
