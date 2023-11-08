@@ -25,13 +25,14 @@ Foundational workshops serve as the cornerstone for a wide array of hands-on wor
 
 - [Carpentries Incubator - Intermediate Research Software Development](https://carpentries-incubator.github.io/python-intermediate-development/)
 - [eScience Center - Intermediate Research Software Development with python](https://www.esciencecenter.nl/event/intermediate-research-software-development-with-python-in-person/?mc_cid=c5fe792647)
-
-**TODO** 
-
+- [SIB Swiss - Intermediate python courses](https://github.com/sib-swiss/intermediate-python-training)
 - [SIB Swiss - Best practices in Programming](https://www.sib.swiss/training/course/20240703_BPP)
 
 *Specialised*
 
-- [Docker and Singularity for Reproducible Research: Getting Started with Containers](https://www.sib.swiss/training/course/20240527_DOCK)
-- [Introduction to Contaniers and Snakemake for Reproducible Research](https://www.sib.swiss/training/course/20241009_ICWRR)
+- [SIB Swiss - Docker and Singularity for Reproducible Research: Getting Started with Containers](https://www.sib.swiss/training/course/20240527_DOCK)
+- [SIB Swiss - Introduction to Contaniers and Snakemake for Reproducible Research](https://www.sib.swiss/training/course/20241009_ICWRR)
+- [Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/)
+- [eScience Center - Reproducible Computational Environments Using Containers](https://www.esciencecenter.nl/training/2022-04-06-ds-docker/)
 - [US-RSE'23 Tutorials](https://us-rse.org/usrse23/program/tutorials/)
+- [TUD - FAIR4RS: FAIR Software Program](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
