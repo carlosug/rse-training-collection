@@ -8,11 +8,10 @@ Below you'll find an *(work in progress)* curated list of research software engi
 ---
 
 *Foundational*
-
 Foundational workshops serve as the cornerstone for a wide array of hands-on workshop applications, providing a versatile starting point for specialized lessons:
 
 - 1. [CodeRefinery](https://coderefinery.org/lessons/from-coderefinery/)
-- 2. [Software Carpentry workshops](courses.md#2-coderefinery-workshop)
+- 2. [Software Carpentry workshops](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops)
 -- introduction to python programming, command-line, task automation with shell, and versioning control with Git
 - 3. [SIB Swiss First steps with UNIX in Life Science](https://www.sib.swiss/training/course/20240116_FSWU)
 
