@@ -17,21 +17,21 @@ SIB SWISS
 
 Foundational workshops serve as the cornerstone for a wide array of hands-on workshop applications, providing a versatile starting point for specialized lessons:
 
-- 1. [CodeRefinery](https://coderefinery.org/lessons/from-coderefinery/)
-- 2. [Software Carpentry Workshop with Python](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops)
+- 1. [CodeRefinery](courses.md#1-coderefinery-workshop)
+- 2. [Software Carpentry Workshop with Python](courses.md#2-software-carpentry-workshop-with-python)
 -- introduction to python programming, command-line, task automation with shell, and versioning control with Git
-- 3. [SIB Swiss First steps with UNIX in Life Science](https://www.sib.swiss/training/course/20240116_FSWU)
+- 3. [SIB Swiss First steps with UNIX in Life Science](courses.md#3-swiss-sib---first-steps-with-unix-in-life-science)
 
 *Essentials*
-- 4. [TUDelft - Version control & collaborative development for research software](https://github.com/4TUResearchData-Carpentries/workshop_notes/tree/2310-gitcodev-TUD)
-- 5. [eScience - Good Practices in Research Software Development](https://github.com/esciencecenter-digital-skills/good-practices-in-research-software-development/tree/main)
-- 6. [SIB Swiss - Version control with Git](https://www.sib.swiss/training/course/20231011_GIT)
+- 4. [TUDelft - Version control & collaborative development for research software](courses.md#4-tudelft---version-control--collaborative-development-for-research-software)
+- 5. [eScience - Good Practices in Research Software Development](courses.md#5-escience-center---good-practices-in-research-software-development)
+- 6. [SIB Swiss - Version control with Git](courses.md#6-swiss-sib---version-control-with-git)
 
 
 *Intermediate*
 
-- 7. [Carpentries Incubator - Intermediate Research Software Development](https://carpentries-incubator.github.io/python-intermediate-development/)
-- 8. [eScience Center - Intermediate Research Software Development with python](https://www.esciencecenter.nl/event/intermediate-research-software-development-with-python-in-person/?mc_cid=c5fe792647)
+- 7. [Carpentries Incubator - Intermediate Research Software Development](courses.md#7-carpentries-incubator---intermediate-research-software-development)
+- 8. [eScience Center - Intermediate Research Software Development with python](courses.md#8-escience-center---intermediate-research-software-development-with-python)
 - 9. [SIB Swiss - Intermediate python courses](https://github.com/sib-swiss/intermediate-python-training)
 - 10. [SIB Swiss - Best practices in Programming](https://www.sib.swiss/training/course/20240703_BPP)
 

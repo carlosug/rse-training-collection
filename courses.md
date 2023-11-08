@@ -12,7 +12,7 @@ Some programming experience, but generic-proposed approach
 .
 
 ### Level:
-Essentials (foundational skills)
+Essentials
 
 ### Duration:
 6 half-days
@@ -80,7 +80,7 @@ Essentials (foundational skills)
 No prior knowledge is required
 
 ### Level:
-Essentials (foundational skills)
+Essentials
 
 ### Family root:
 .
@@ -133,7 +133,7 @@ no background in
 .
 
 ### Level:
-Essentials (Foundational skills)
+Essentials
 
 ### Duration:
 (-) full days and half
@@ -299,7 +299,7 @@ Basic knowledge and skills on research software development usin Git, Pytho and 
 Carpentry
 
 ### Level:
-Essentials (foundational skills)
+Essentials
 
 ### Duration:
 4 full-days
@@ -346,7 +346,7 @@ Basic knowledge and skills on research software development by attending [novice
 Based on [Incubator Intermediate Research Software Development Skills In Python Lesson Material](https://github.com/carpentries-incubator/python-intermediate-development/tree/gh-pages)
 
 ### Level:
-Essentials (foundational skills)
+Essentials 
 
 ### Duration:
 4 full-days
@@ -448,7 +448,7 @@ Practical experience with basic UNIX commands
 SIB lessons
 
 ### Level:
-Essentials (Foundational skills)
+Essentials 
 
 ### Duration:
 1 full day
@@ -473,7 +473,7 @@ Practical experience with basic UNIX commands
 Carpentry
 
 ### Level:
-Essentials (Foundational skills)
+Essentials 
 
 ### Duration:
 1 full day
@@ -499,7 +499,7 @@ Practical experience with basic UNIX commands
 Carpentry
 
 ### Level:
-Essentials (Foundational skills)
+Essentials 
 
 ### Duration:
 1 full day
@@ -528,7 +528,7 @@ Practical experience with basic UNIX commands
 Carpentry
 
 ### Level:
-Essentials (Foundational skills)
+Essentials 
 
 ### Duration:
 1 full day
@@ -556,7 +556,7 @@ Practical experience with basic UNIX commands
 TUD
 
 ### Level:
-Essentials (Foundational skills)
+Essentials
 
 ### Duration:
 13-weeks
