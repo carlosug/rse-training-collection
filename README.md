@@ -5,19 +5,25 @@ Below you'll find an *(work in progress)* curated list of research software engi
 2. is a hands-on workshops
 3. is open and free to all researchers
 
+
+
+- Acronyms:
+TUDelft
+SIB SWISS
+
 ---
 
 *Foundational*
 
 Foundational workshops serve as the cornerstone for a wide array of hands-on workshop applications, providing a versatile starting point for specialized lessons:
 
-1. [CodeRefinery](https://coderefinery.org/lessons/from-coderefinery/)
-- 2. [Software Carpentry workshops](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops)
+- 1. [CodeRefinery](https://coderefinery.org/lessons/from-coderefinery/)
+- 2. [Software Carpentry Workshop with Python](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops)
 -- introduction to python programming, command-line, task automation with shell, and versioning control with Git
 - 3. [SIB Swiss First steps with UNIX in Life Science](https://www.sib.swiss/training/course/20240116_FSWU)
 
 *Essentials*
-- 4. [TUD- Version control & collaborative development for research software](https://github.com/4TUResearchData-Carpentries/workshop_notes/tree/2310-gitcodev-TUD)
+- 4. [TUDelft - Version control & collaborative development for research software](https://github.com/4TUResearchData-Carpentries/workshop_notes/tree/2310-gitcodev-TUD)
 - 5. [eScience - Good Practices in Research Software Development](https://github.com/esciencecenter-digital-skills/good-practices-in-research-software-development/tree/main)
 - 6. [SIB Swiss - Version control with Git](https://www.sib.swiss/training/course/20231011_GIT)
 
@@ -33,7 +39,7 @@ Foundational workshops serve as the cornerstone for a wide array of hands-on wor
 
 - 11. [SIB Swiss - Docker and Singularity for Reproducible Research: Getting Started with Containers](https://www.sib.swiss/training/course/20240527_DOCK)
 - 12. [SIB Swiss - Introduction to Contaniers and Snakemake for Reproducible Research](https://www.sib.swiss/training/course/20241009_ICWRR)
-- [Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/)
-- 13. [eScience Center - Reproducible Computational Environments Using Containers](https://www.esciencecenter.nl/training/2022-04-06-ds-docker/)
-- 14. [US-RSE'23 Tutorials](https://us-rse.org/usrse23/program/tutorials/)
+- 13. [Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/)
+- 14. [eScience Center - Reproducible Computational Environments Using Containers](https://www.esciencecenter.nl/training/2022-04-06-ds-docker/)
 - 15. [TUD - FAIR4RS: FAIR Software Program](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
+- 16. [US-RSE'23 Tutorials](https://us-rse.org/usrse23/program/tutorials/)

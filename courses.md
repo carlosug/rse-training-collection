@@ -1,57 +1,9 @@
+# Courses and workshops
 
-## 1. Software Carpentry Workshop with Python
-
-### Goal:
-> Help researchers get their work done in less time and with less pain by teaching the basic research computing skills. [(Materials)](https://swcarpentry.github.io/python-novice-inflammation/)
-
-### Prerequisites:
-No prior knowledge is required
-
-### Level:
-Essentials (foundational skills)
-
-### Family root:
-.
-
-### Duration:
-3 half-days
-
-### Overview content and lessons:
-
-1. Intro to Python programming I and II *with Anaconda*:
-    - python fundamentals
-    - analysing and visualising data
-    - storing data and lists object
-    - repeating actions with Loops
-    - analysing data from multiple Files
-    - creating functions
-    - errors and exceptions
-    - defensive programming
-    - debugging
-    - **Command-Line Programs**
-        - command-line arguments, handling multiple files, flags and standard Inputs
-
-2. Intro the Unix Shell:
-    - navigating files and directories
-    - working with files and directories
-    - pipes and filters
-    - loops
-    - shell scripts
-3. Version Control with Git:
-    - creating repository
-    - tracking changes
-    - exploring history
-    - ignoring Things
-    - remotes in Github
-    - collaborating
-    - conflicts
-    - open science
-
----
-## 2. Coderefinery workshop
+## 1. Coderefinery workshop
 
 ### Goal:
-> teach basic scientific computing tools and become familiar with tools and best practices for scientific software develpment
+> teach basic scientific computing tools and become familiar with tools and best practices for scientific software develpment. [(Materials)](https://coderefinery.org/lessons/from-coderefinery/)
 
 ### Prerequisites:
 Some programming experience, but generic-proposed approach
@@ -119,11 +71,89 @@ Essentials (foundational skills)
 
 ---
 
-
-## 3. TUDelft - Version control & collaborative development for research software
+## 2. Software Carpentry Workshop with Python
 
 ### Goal:
-> Help researchers get familiar with using Git for effectively managing source code and decentralised repository as well as succesfully manage research software, establishing efficient workflows and splitting resposabilities within a project
+> Help researchers get their work done in less time and with less pain by teaching the basic research computing skills. [(Materials)](https://swcarpentry.github.io/python-novice-inflammation/)
+
+### Prerequisites:
+No prior knowledge is required
+
+### Level:
+Essentials (foundational skills)
+
+### Family root:
+.
+
+### Duration:
+3 half-days
+
+### Overview content and lessons:
+
+1. Intro to Python programming I and II *with Anaconda*:
+    - python fundamentals
+    - analysing and visualising data
+    - storing data and lists object
+    - repeating actions with Loops
+    - analysing data from multiple Files
+    - creating functions
+    - errors and exceptions
+    - defensive programming
+    - debugging
+    - **Command-Line Programs**
+        - command-line arguments, handling multiple files, flags and standard Inputs
+
+2. Intro the Unix Shell:
+    - navigating files and directories
+    - working with files and directories
+    - pipes and filters
+    - loops
+    - shell scripts
+3. Version Control with Git:
+    - creating repository
+    - tracking changes
+    - exploring history
+    - ignoring Things
+    - remotes in Github
+    - collaborating
+    - conflicts
+    - open science
+
+---
+
+## 3. Swiss SIB - First Steps with UNIX in Life Science
+
+### Goal:
+> Researchers (focus on bio informatics) learn most useful commands of Git, an intro to collaborative workflows and how to use Github. [Materials](https://www.sib.swiss/training/course/20240116_FSWU)
+
+### Prerequisites:
+no background in 
+
+### Family root:
+.
+
+### Level:
+Essentials (Foundational skills)
+
+### Duration:
+(-) full days and half
+
+### Overview content and lessons:
+- What is UNIX and why should biologists use it?
+- UNIX filesystem: navigation and usage
+- Environment, processes & Jobs
+- Working with directories
+- Working with files and file content
+
+
+---
+
+
+
+## 4. TUDelft - Version control & collaborative development for research software
+
+### Goal:
+> Help researchers get familiar with using Git for effectively managing source code and decentralised repository as well as succesfully manage research software, establishing efficient workflows and splitting resposabilities within a project. [(Materials)](https://github.com/4TUResearchData-Carpentries/workshop_notes/tree/2310-gitcodev-TUD)
 
 ### Prerequisites:
 Little knowledge on command-line interface with Unix Shell. It is required to know how to navigate, create, edit, visualise and append command output to a file via Unix Shell. Software carpentry 2 and 3 content is desired.
@@ -132,7 +162,7 @@ Little knowledge on command-line interface with Unix Shell. It is required to kn
 Coderefinery lessons
 
 ### Level:
-Essentials (foundational skills)
+Essentials
 
 ### Duration:
 4 half days
@@ -163,10 +193,10 @@ Essentials (foundational skills)
 
 ---
 
-## 4. eScience Center - Good practices in Research software development
+## 5. eScience Center - Good practices in Research software development
 
 ### Goal:
-> Researchers learn good software practices and skills to  facilitate open and reproducible research, focus on methods to build, modular, reusable, maintainable, sustainable, reproducible, testable, and robust software
+> Researchers learn good software practices and skills to  facilitate open and reproducible research, focus on methods to build, modular, reusable, maintainable, sustainable, reproducible, testable, and robust software. [(Materials)](https://github.com/esciencecenter-digital-skills/good-practices-in-research-software-development/tree/main)
 
 ### Prerequisites:
 Little knowledge on command-line interface with Unix Shell. It is required to know how to navigate, create, edit, visualise and append command output to a file via Unix Shell. Software carpentry 2 and 3 content is desired.
@@ -175,7 +205,7 @@ Little knowledge on command-line interface with Unix Shell. It is required to kn
 Coderefinery lessons
 
 ### Level:
-Essentials (foundational skills)
+Essentials
 
 ### Duration:
 4 half-days
@@ -211,38 +241,11 @@ Essentials (foundational skills)
 
 ---
 
-## 5. Swiss SIB - First Steps with UNIX in Life Science
-
-### Goal:
-> Researchers (focus on bio informatics) learn most useful commands of Git, an intro to collaborative workflows and how to use Github
-
-### Prerequisites:
-no background in 
-
-### Family root:
-.
-
-### Level:
-Essentials (Foundational skills)
-
-### Duration:
-(-) full days and half
-
-### Overview content and lessons:
-- What is UNIX and why should biologists use it?
-- UNIX filesystem: navigation and usage
-- Environment, processes & Jobs
-- Working with directories
-- Working with files and file content
-
-
----
-
 
 ## 6. Swiss SIB - Version control with Git
 
 ### Goal:
-> Researchers learn most useful commands of Git, an intro to collaborative workflows and how to use Github
+> Researchers learn most useful commands of Git, an intro to collaborative workflows and how to use Github. [(Materials)](https://www.sib.swiss/training/course/20231011_GIT)
 
 ### Prerequisites:
 recommended basic knowledge of unix command line and following introductory using Bash shell at their [UNIX course](https://www.sib.swiss/training/course/20240116_FSWU)
@@ -251,7 +254,7 @@ recommended basic knowledge of unix command line and following introductory usin
 SIB lessons
 
 ### Level:
-Essentials (Foundational skills)
+Essentials
 
 ### Duration:
 2 full days and half
@@ -284,200 +287,10 @@ Essentials (Foundational skills)
 ---
 
 
-## 7. Swiss SIB - Best Practices in Programming
+## 7. Carpentries Incubator - Intermediate Research Software Development
 
 ### Goal:
-> Researchers learn most useful skills and techniques for effectively developing software. [(Materials)](https://www.sib.swiss/training/course/20240703_BPP)
-
-### Prerequisites:
-Working knowledge of one of the following programming languages: R, python, C/C++, java, perl, Matlab
-
-### Family root:
-SIB lessons
-
-### Level:
-Intermediate
-
-### Duration:
-1 full days
-
-### Overview content and lessons:
-1. Unit testing
-2. Maintainable code
-3. Refactoring
-
----
-
-## 8. Swiss SIB - Intermediate python courses
-
-### Goal:
-> Researchers learn about data analysis, representation and how to optimize code using python. [(Materials)](https://github.com/sib-swiss/intermediate-python-training#intermediate-python-courses)
-
-### Prerequisites:
-none
-
-### Family root:
-SIB lessons
-
-### Level:
-Intermediate
-
-### Duration:
-2 half days
-
-### Overview content and lessons:
-
-
-1. Data analysis and representation in python
-- parsing, transforming, and exploring data using Pandas
-- performing statistical simulation and testing with Numpy/Scipy
-- representing data in an efficient and impactful manner using Seaborn
-
-2. Optimizing Python Code for Better Performance
-- assessing computational resource usage of your code
-- speeding-up your Python code with Numba and more
-
----
-
-## 9. Swiss SIB - Docker and Singularity for reproducible research: getting started with containers
-
-### Goal:
-> Researchers learn about data analysis, representation and how to optimize code using python. [(Materials)](https://github.com/sib-swiss/containers-introduction-training)
-
-### Prerequisites:
-Practical experience with basic UNIX commands
-### Family root:
-SIB lessons
-
-### Level:
-Essentials (Foundational skills)
-
-### Duration:
-1 full day
-
-### Overview content and lessons:
-
-1. Understand the basic concepts and terminology associated with virtualization with containers
-2. Customize, store, manage and share containerized environments with Docker
-3. Describe and understand the essential differences between Docker and Singularity
-4. Use Singularity to run containers on a shared computer environment (e.g. a HPC cluster)
----
-
-
-## 10. Swiss SIB - Introduction to Contaniers and Snakemake
-
-### Goal:
-> Researchers learn about the basics of viertualization with containers. [(Materials)](https://sib-swiss.github.io/containers-snakemake-training/)
-
-### Prerequisites:
-Practical experience with basic UNIX commands
-### Family root:
-Carpentry
-
-### Level:
-Essentials (Foundational skills)
-
-### Duration:
-1 full day
-
-### Overview content and lessons:
-
-1. Understand the basic concepts and terminology associated with virtualization with containers
-2. Customize, store, manage and share containerized environments with Docker
-3. Use Apptainer to run containers on a shared computer environment (e.g. a HPC cluster)
-4. Understand the basic concepts and terminology associated with workflow management systems
-5. Create a computational workflow that uses containers and package managers with Snakemake
-
----
-## 11. eScience Center - Reproducible Computational Environments Using Containers
-
-### Goal:
-> Researchers learn about the basics of viertualization with containers. [(Materials)](https://github.com/esciencecenter-digital-skills/2022-04-06-ds-docker)
-
-### Prerequisites:
-Practical experience with basic UNIX commands
-
-### Family root:
-Carpentry
-
-### Level:
-Essentials (Foundational skills)
-
-### Duration:
-1 full day
-
-### Overview content and lessons:
-
-1. Introduction to containers and container images
-2. Docker command line
-3. Exploring and running containers
-4. Docker Hub
-5. Managing Docker containers and images
-6. Creating Docker images
-7. Docker containers in research workflows
-
-
----
-
-## 12. Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker
-
-### Goal:
-> Researchers learn reproducible computational environments using containers. [(Materials)](https://github.com/carpentries-incubator/docker-introduction)
-
-### Prerequisites:
-Practical experience with basic UNIX commands
-### Family root:
-Carpentry
-
-### Level:
-Essentials (Foundational skills)
-
-### Duration:
-1 full day
-
-### Overview content and lessons:
-
-1. Introducing containers
-2. Introducing the docker command line
-3. Exploring and running containers
-4. Cleaning up containers
-5. Finding containers on Docker Hub
-6. Creating your own container images
-7. Creating more complex container images
-8. Containers in research workflows: reproducibility and granularity
----
-
-## 13. TUD - FAIR4RS: Fair for Research Software
-
-### Goal:
-> Researchers learn the essential tools to create scientific software following the FAIR principles and how to apply them to your own project. [(Materials)](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
-
-### Prerequisites:
-Practical experience with basic UNIX commands
-### Family root:
-TUD
-
-### Level:
-Essentials (Foundational skills)
-
-### Duration:
-13-weeks
-
-### Overview content and lessons:
-
-1. Code refinery workshops
-3. Project planning
-4. Reproducibility
-5. Documentation
-6. Collaboration
-7. Code Quality
-
----
-
-## 14. Carpentry - Intermediate Research Software Development with Python
-
-### Goal:
-> Researchers learn the essentials of data analysis and management using python [(Materials)](https://carpentries-incubator.github.io/python-intermediate-development/)
+> Researchers learn the essentials of data analysis and management using python. [(Materials)](https://carpentries-incubator.github.io/python-intermediate-development/)
 
 ### Prerequisites:
 Basic knowledge and skills on research software development usin Git, Pytho and Shell by attending [novice Software Carpentry Python Course](https://software-carpentry.org/lessons)
@@ -521,10 +334,10 @@ Essentials (foundational skills)
 
 ---
 
-## 15. eScience Center - Intermediate Research Software Development with Python
+## 8. eScience Center - Intermediate Research Software Development with Python
 
 ### Goal:
-> Researchers learn the core set of intermediate-level software development skills and best practices for working as part of a team in a research environment using Python.
+> Researchers learn the core set of intermediate-level software development skills and best practices for working as part of a team in a research environment using Python. [(Materials)](https://www.esciencecenter.nl/event/intermediate-research-software-development-with-python-in-person/?mc_cid=c5fe792647)
 
 ### Prerequisites:
 Basic knowledge and skills on research software development by attending [novice Software Carpentry Python Course](https://software-carpentry.org/lessons)
@@ -565,6 +378,201 @@ Essentials (foundational skills)
 5. Managing and improving softwre over its lifetime
 - managing a collaborative software project
 - software improvement through feedback
+
+---
+
+## 9. Swiss SIB - Intermediate python courses
+
+### Goal:
+> Researchers learn about data analysis, representation and how to optimize code using python. [(Materials)](https://github.com/sib-swiss/intermediate-python-training#intermediate-python-courses)
+
+### Prerequisites:
+none
+
+### Family root:
+SIB lessons
+
+### Level:
+Intermediate
+
+### Duration:
+2 half days
+
+### Overview content and lessons:
+
+
+1. Data analysis and representation in python
+- parsing, transforming, and exploring data using Pandas
+- performing statistical simulation and testing with Numpy/Scipy
+- representing data in an efficient and impactful manner using Seaborn
+
+2. Optimizing Python Code for Better Performance
+- assessing computational resource usage of your code
+- speeding-up your Python code with Numba and more
+
+---
+
+
+## 10. Swiss SIB - Best Practices in Programming
+
+### Goal:
+> Researchers learn most useful skills and techniques for effectively developing software. [(Materials)](https://www.sib.swiss/training/course/20240703_BPP)
+
+### Prerequisites:
+Working knowledge of one of the following programming languages: R, python, C/C++, java, perl, Matlab
+
+### Family root:
+SIB lessons
+
+### Level:
+Intermediate
+
+### Duration:
+1 full days
+
+### Overview content and lessons:
+1. Unit testing
+2. Maintainable code
+3. Refactoring
+
+---
+
+## 11. Swiss SIB - Docker and Singularity for reproducible research: getting started with containers
+
+### Goal:
+> Researchers learn about data analysis, representation and how to optimize code using python. [(Materials)](https://github.com/sib-swiss/containers-introduction-training)
+
+### Prerequisites:
+Practical experience with basic UNIX commands
+### Family root:
+SIB lessons
+
+### Level:
+Essentials (Foundational skills)
+
+### Duration:
+1 full day
+
+### Overview content and lessons:
+
+1. Understand the basic concepts and terminology associated with virtualization with containers
+2. Customize, store, manage and share containerized environments with Docker
+3. Describe and understand the essential differences between Docker and Singularity
+4. Use Singularity to run containers on a shared computer environment (e.g. a HPC cluster)
+---
+
+
+## 12. Swiss SIB - Introduction to Contaniers and Snakemake
+
+### Goal:
+> Researchers learn about the basics of viertualization with containers. [(Materials)](https://sib-swiss.github.io/containers-snakemake-training/)
+
+### Prerequisites:
+Practical experience with basic UNIX commands
+### Family root:
+Carpentry
+
+### Level:
+Essentials (Foundational skills)
+
+### Duration:
+1 full day
+
+### Overview content and lessons:
+
+1. Understand the basic concepts and terminology associated with virtualization with containers
+2. Customize, store, manage and share containerized environments with Docker
+3. Use Apptainer to run containers on a shared computer environment (e.g. a HPC cluster)
+4. Understand the basic concepts and terminology associated with workflow management systems
+5. Create a computational workflow that uses containers and package managers with Snakemake
+
+---
+## 13. eScience Center - Reproducible Computational Environments Using Containers
+
+### Goal:
+> Researchers learn about the basics of viertualization with containers. [(Materials)](https://github.com/esciencecenter-digital-skills/2022-04-06-ds-docker)
+
+### Prerequisites:
+Practical experience with basic UNIX commands
+
+### Family root:
+Carpentry
+
+### Level:
+Essentials (Foundational skills)
+
+### Duration:
+1 full day
+
+### Overview content and lessons:
+
+1. Introduction to containers and container images
+2. Docker command line
+3. Exploring and running containers
+4. Docker Hub
+5. Managing Docker containers and images
+6. Creating Docker images
+7. Docker containers in research workflows
+
+
+---
+
+## 14. Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker
+
+### Goal:
+> Researchers learn reproducible computational environments using containers. [(Materials)](https://github.com/carpentries-incubator/docker-introduction)
+
+### Prerequisites:
+Practical experience with basic UNIX commands
+### Family root:
+Carpentry
+
+### Level:
+Essentials (Foundational skills)
+
+### Duration:
+1 full day
+
+### Overview content and lessons:
+
+1. Introducing containers
+2. Introducing the docker command line
+3. Exploring and running containers
+4. Cleaning up containers
+5. Finding containers on Docker Hub
+6. Creating your own container images
+7. Creating more complex container images
+8. Containers in research workflows: reproducibility and granularity
+---
+
+## 15. TUD - FAIR4RS: Fair for Research Software
+
+### Goal:
+> Researchers learn the essential tools to create scientific software following the FAIR principles and how to apply them to your own project. [(Materials)](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
+
+### Prerequisites:
+Practical experience with basic UNIX commands
+### Family root:
+TUD
+
+### Level:
+Essentials (Foundational skills)
+
+### Duration:
+13-weeks
+
+### Overview content and lessons:
+
+1. Code refinery workshops
+3. Project planning
+4. Reproducibility
+5. Documentation
+6. Collaboration
+7. Code Quality
+
+---
+
+## 16. [US-RSE'23 Tutorials](https://us-rse.org/usrse23/program/tutorials/)
 
 ---
 
