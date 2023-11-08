@@ -8,6 +8,7 @@ Below you'll find an *(work in progress)* curated list of research software engi
 ---
 
 *Foundational*
+
 Foundational workshops serve as the cornerstone for a wide array of hands-on workshop applications, providing a versatile starting point for specialized lessons:
 
 - 1. [CodeRefinery](https://coderefinery.org/lessons/from-coderefinery/)
