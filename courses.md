@@ -2,7 +2,7 @@
 ## 1. Software Carpentry Workshop with Python
 
 ### Goal:
-> Help researchers get their work done in less time and with less pain by teaching the basic research computing skills.
+> Help researchers get their work done in less time and with less pain by teaching the basic research computing skills. [(Materials)](https://swcarpentry.github.io/python-novice-inflammation/)
 
 ### Prerequisites:
 No prior knowledge is required
@@ -287,7 +287,7 @@ Essentials (Foundational skills)
 ## 7. Swiss SIB - Best Practices in Programming
 
 ### Goal:
-> Researchers learn most useful skills and techniques for effectively developing software. [Material](https://www.sib.swiss/training/course/20240703_BPP)
+> Researchers learn most useful skills and techniques for effectively developing software. [(Materials)](https://www.sib.swiss/training/course/20240703_BPP)
 
 ### Prerequisites:
 Working knowledge of one of the following programming languages: R, python, C/C++, java, perl, Matlab
@@ -311,7 +311,7 @@ Intermediate
 ## 8. Swiss SIB - Intermediate python courses
 
 ### Goal:
-> Researchers learn about data analysis, representation and how to optimize code using python. [Material](https://github.com/sib-swiss/intermediate-python-training#intermediate-python-courses)
+> Researchers learn about data analysis, representation and how to optimize code using python. [(Materials)](https://github.com/sib-swiss/intermediate-python-training#intermediate-python-courses)
 
 ### Prerequisites:
 none
@@ -342,7 +342,7 @@ Intermediate
 ## 9. Swiss SIB - Docker and Singularity for reproducible research: getting started with containers
 
 ### Goal:
-> Researchers learn about data analysis, representation and how to optimize code using python. [Material](https://github.com/sib-swiss/containers-introduction-training)
+> Researchers learn about data analysis, representation and how to optimize code using python. [(Materials)](https://github.com/sib-swiss/containers-introduction-training)
 
 ### Prerequisites:
 Practical experience with basic UNIX commands
@@ -367,7 +367,7 @@ Essentials (Foundational skills)
 ## 10. Swiss SIB - Introduction to Contaniers and Snakemake
 
 ### Goal:
-> Researchers learn about the basics of viertualization with containers. [Material](https://sib-swiss.github.io/containers-snakemake-training/)
+> Researchers learn about the basics of viertualization with containers. [(Materials)](https://sib-swiss.github.io/containers-snakemake-training/)
 
 ### Prerequisites:
 Practical experience with basic UNIX commands
@@ -392,7 +392,7 @@ Essentials (Foundational skills)
 ## 11. eScience Center - Reproducible Computational Environments Using Containers
 
 ### Goal:
-> Researchers learn about the basics of viertualization with containers. [Material](https://github.com/esciencecenter-digital-skills/2022-04-06-ds-docker)
+> Researchers learn about the basics of viertualization with containers. [(Materials)](https://github.com/esciencecenter-digital-skills/2022-04-06-ds-docker)
 
 ### Prerequisites:
 Practical experience with basic UNIX commands
@@ -422,7 +422,7 @@ Essentials (Foundational skills)
 ## 12. Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker
 
 ### Goal:
-> Researchers learn reproducible computational environments using containers. [Material](https://github.com/carpentries-incubator/docker-introduction)
+> Researchers learn reproducible computational environments using containers. [(Materials)](https://github.com/carpentries-incubator/docker-introduction)
 
 ### Prerequisites:
 Practical experience with basic UNIX commands
@@ -450,7 +450,7 @@ Essentials (Foundational skills)
 ## 13. TUD - FAIR4RS: Fair for Research Software
 
 ### Goal:
-> Researchers learn the essential tools to create scientific software following the FAIR principles and how to apply them to your own project. [Material](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
+> Researchers learn the essential tools to create scientific software following the FAIR principles and how to apply them to your own project. [(Materials)](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
 
 ### Prerequisites:
 Practical experience with basic UNIX commands
@@ -477,7 +477,7 @@ Essentials (Foundational skills)
 ## 14. Carpentry - Intermediate Research Software Development with Python
 
 ### Goal:
-> Researchers learn the essentials of data analysis and management using python [Material](https://carpentries-incubator.github.io/python-intermediate-development/)
+> Researchers learn the essentials of data analysis and management using python [(Materials)](https://carpentries-incubator.github.io/python-intermediate-development/)
 
 ### Prerequisites:
 Basic knowledge and skills on research software development usin Git, Pytho and Shell by attending [novice Software Carpentry Python Course](https://software-carpentry.org/lessons)
