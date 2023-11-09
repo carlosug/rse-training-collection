@@ -13,7 +13,7 @@ TUDelft: Technical University of Delft (NL) </br>
 SIB SWISS: Swiss Institute of Bioinformatics (CH)
 
 **Virtual collaborative whiteboard tool:**
-[Brainstorming session 09.11.2023](https://excalidraw.com/#json=CQ_x3OCfvzHo-s2sH9pBb,nT5AW0kt-iUpD1GNe7n1qA)
+Link to excalidraw file - [Brainstorming session 09.11.2023](https://excalidraw.com/#json=YgYrb5mAXaetFXPyi6wQ7,mjq1mtxR-TXuK-bsKM6F2Q)
 
 
 
