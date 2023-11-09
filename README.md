@@ -23,9 +23,9 @@ SIB SWISS: Swiss Institute of Bioinformatics (CH)
 
 Foundational workshops serve as the cornerstone for a wide array of hands-on workshop applications, providing a versatile starting point for specialized lessons:
 
-- 1. [CodeRefinery](courses.md#1-coderefinery-workshop)
-- 2. [Software Carpentry Workshop with Python](courses.md#2-software-carpentry-workshop-with-python)
-- 3. [SIB Swiss First steps with UNIX in Life Science](courses.md#3-swiss-sib---first-steps-with-unix-in-life-science)
+* [CodeRefinery](courses.md#1-coderefinery-workshop)
+* [Software Carpentry Workshop with Python](courses.md#2-software-carpentry-workshop-with-python)
+* [SIB Swiss First steps with UNIX in Life Science](courses.md#3-swiss-sib---first-steps-with-unix-in-life-science)
 
 ---
 
