@@ -548,7 +548,7 @@ Essentials
 ## 15. TUD - FAIR4RS: Fair for Research Software
 
 ### Goal:
-> Researchers learn the essential tools to create scientific software following the FAIR principles and how to apply them to your own project. [(Materials)](https://hackmd.io/@fair4rs/ry9bbfMxh/https%3A%2F%2Fhackmd.io%2F%40fair4rs%2FH1v_yGGg2)
+> Researchers learn the essential tools to create scientific software following the FAIR principles and how to apply them to your own project. [(Materials)](https://tu-delft-dcc.github.io/FAIR4RS/)
 
 ### Prerequisites:
 Practical experience with basic UNIX commands

@@ -52,5 +52,5 @@ Foundational workshops serve as the cornerstone for a wide array of hands-on wor
 - 12. [SIB Swiss - Introduction to Contaniers and Snakemake for Reproducible Research](courses.md#12-swiss-sib---introduction-to-contaniers-and-snakemake)
 - 13. [eScience Center - Reproducible Computational Environments Using Containers](courses.md#13-escience-center---reproducible-computational-environments-using-containers)
 - 14. [Carpentries Incubator - Reproducible Computational Environments Using Containers: Introduction to Docker](courses.md#14-carpentries-incubator---reproducible-computational-environments-using-containers-introduction-to-docker)
-- 15. [TUD - FAIR4RS: FAIR Software Program](hcourses.md#15-tud---fair4rs-fair-for-research-software)
+- 15. [TUD - FAIR4RS: FAIR Software Program](courses.md#15-tud---fair4rs-fair-for-research-software)
 - 16. [US-RSE'23 Tutorials](courses.md#16-us-rse23-tutorials)
