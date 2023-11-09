@@ -307,7 +307,7 @@ Essentials
 ### Overview content and lessons:
 1. Setting up environment for collaborative code development
 - intro yo virtual environment
-- collaboration usinhg git
+- collaboration using git
 - coding convetions with python code style
 
 2. Ensuring correctness of software at scale
